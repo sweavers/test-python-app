@@ -1,0 +1,9 @@
+flask
+itsdangerous
+markupsafe
+requests
+gunicorn
+psycopg2==2.6
+pytest==2.7.0
+mock==1.0.1
+blinker==1.3
